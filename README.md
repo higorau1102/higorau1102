@@ -1,5 +1,5 @@
 ## Hi there higor augusto 👋💙
-estou estudando alura 
+estou aprendendo alura 
 
 moro em uma cidade do interior de sp
 
