@@ -14,3 +14,8 @@ pode entrar em contato comigo em
 @higorxzhz
 
 sou uma pessoa alta e gosto de conversar 
+
+Também já desenvolvi várias programações, como:
+https://cursos.alura.com.br/course/logica-programacao-comece-jogo-pong-javascript
+
+https://cursos.alura.com.br/course/logica-programacao-comece-jogo-pong-javascript
